@@ -35,7 +35,7 @@ Note: No need to install requirements.txt since no
     set and manually verifying the output at every step was used 
     as a preliminary show of correctness.
 
-## Runtime
+## Space and Time Complexity
     The program runs in O(n) time complexity
     and O(n) space complexity where n is the size
     of the largest file.
